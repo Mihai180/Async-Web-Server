@@ -34,7 +34,5 @@ This project demonstrates expertise in network programming, asynchronous I/O, an
 
 By working on this project, I have gained in-depth knowledge of system-level programming, socket management, and performance optimization techniques essential for developing high-performance network applications.
 
-If you're looking for a developer with experience in networking and system programming, let's connect!
-
 ## License
 This project is licensed under the **MIT License**. See `LICENSE` for details.
